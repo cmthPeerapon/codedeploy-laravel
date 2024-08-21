@@ -1,0 +1,6 @@
+.ebextensions
+.elasticbeanstalk
+.ebignore
+*.yml
+Dockerfile
+entrypoint.sh
